@@ -1,9 +1,13 @@
+using System;
 using Microsoft.EntityFrameworkCore;
 
 namespace Mvc
 {
     public class AppDb : DbContext
     {
-        var connectionString = Configuration["ConnectionStrings:MySqlConnection"];
+        public AppDb()
+        {
+            var connectionString = Configuration["ConnectionStrings:MySqlConnection"];
+        }
     }
 }
