@@ -7,7 +7,7 @@ namespace Mvc
     {
         public AppDb()
         {
-            var connectionString = Configuration["ConnectionStrings:MySqlConnection"];
+            var connectionString = "ConnectionStrings:MySqlConnection";
         }
     }
 }
