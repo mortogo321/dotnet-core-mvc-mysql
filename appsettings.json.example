@@ -5,7 +5,11 @@
       "Default": "Warning"
     }
   },
-  "ConnectionStrings": {
-    "MySqlConnection": "server=localhost;port=3306;user id=test;password=test;database=test;"
+  "Mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "database": "test",
+    "user": "test",
+    "password": "test"
   }
 }
