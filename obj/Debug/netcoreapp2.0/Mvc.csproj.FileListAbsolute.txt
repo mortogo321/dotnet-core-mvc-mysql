@@ -1,0 +1,10 @@
+/home/dev/Development/Learning/Dotnet/Mvc/bin/Debug/netcoreapp2.0/Mvc.deps.json
+/home/dev/Development/Learning/Dotnet/Mvc/bin/Debug/netcoreapp2.0/Mvc.runtimeconfig.json
+/home/dev/Development/Learning/Dotnet/Mvc/bin/Debug/netcoreapp2.0/Mvc.runtimeconfig.dev.json
+/home/dev/Development/Learning/Dotnet/Mvc/bin/Debug/netcoreapp2.0/Mvc.dll
+/home/dev/Development/Learning/Dotnet/Mvc/bin/Debug/netcoreapp2.0/Mvc.pdb
+/home/dev/Development/Learning/Dotnet/Mvc/obj/Debug/netcoreapp2.0/Mvc.csproj.CoreCompileInputs.cache
+/home/dev/Development/Learning/Dotnet/Mvc/obj/Debug/netcoreapp2.0/Mvc.AssemblyInfoInputs.cache
+/home/dev/Development/Learning/Dotnet/Mvc/obj/Debug/netcoreapp2.0/Mvc.AssemblyInfo.cs
+/home/dev/Development/Learning/Dotnet/Mvc/obj/Debug/netcoreapp2.0/Mvc.dll
+/home/dev/Development/Learning/Dotnet/Mvc/obj/Debug/netcoreapp2.0/Mvc.pdb
